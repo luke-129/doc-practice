@@ -18,3 +18,4 @@ documentation for details.
    some-feature.md
    another-feature.md
    apidocs/index
+   example
